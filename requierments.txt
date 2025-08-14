@@ -1,0 +1,6 @@
+langchain_community==0.3.21
+neo4j==5.28.1
+langchain_openai== 0.3.12
+ipykernel
+streamlit
+langchain_neo4j
